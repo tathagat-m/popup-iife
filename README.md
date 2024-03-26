@@ -1,4 +1,4 @@
-#Popup-IIFE
+# Popup-IIFE
 
 An Immediately Invoked Function Expression(IIFE) that shows a responsive offer popup. 
 This JS code can be run on any website using a script tag or directly running from the console. 
