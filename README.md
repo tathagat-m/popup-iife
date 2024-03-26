@@ -16,7 +16,7 @@ To run this code:
     - Copy the following code,
       ```
       const popupScript = document.createElement('script');
-      popupScript.src = '{cdn url}';
+      popupScript.src = 'https://cdn.jsdelivr.net/gh/tathagat-m/popup-iife@main/popupScript.js';
       document.body.appendChild(popupScript);
       ```
     - Paste it in the browser console.
